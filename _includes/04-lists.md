@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+#My Favourite Foods
+- Chocolate
+- Bananas
+- Icecream
+
+#My Favourite Drinks
+1. Milk
+2. Beer
