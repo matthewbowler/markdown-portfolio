@@ -1,1 +1,1 @@
-https://github.com/matthewbowler/
+[GitHub Profile](https://github.com/matthewbowler/)
